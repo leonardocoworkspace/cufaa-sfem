@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 330 330">
+  <g id="Livello_1" data-name="Livello 1" display="none">
+    <g>
+      <path d="M289.8,282.8c-1.1,0-2.2-.4-3.1-1.1l-97.8-79.2c-2.1-1.7-2.5-4.9-.7-7,1.7-2.1,4.9-2.5,7-.7l97.8,79.2c2.1,1.7,2.5,4.9.7,7-1,1.2-2.4,1.9-3.9,1.9Z" fill="none" stroke="#2864ae" stroke-miterlimit="10" stroke-width="30"/>
+      <circle cx="136.1" cy="148.1" r="100.9" fill="#fff" stroke="#2864ae" stroke-miterlimit="10" stroke-width="20"/>
+    </g>
+  </g>
+  <g id="Livello_3" data-name="Livello 3" display="none">
+    <circle cx="165" cy="165" r="140" fill="#fff" stroke="#2965ae" stroke-miterlimit="10" stroke-width="10"/>
+    <ellipse cx="165" cy="165" rx="66.2" ry="140" fill="#fff" stroke="#2965ae" stroke-miterlimit="10" stroke-width="10"/>
+    <line x1="23.8" y1="165" x2="306.2" y2="165" fill="none" stroke="#2965ae" stroke-miterlimit="10" stroke-width="10"/>
+    <line x1="165" y1="25" x2="165" y2="305" fill="none" stroke="#2965ae" stroke-miterlimit="10" stroke-width="10"/>
+    <path d="M59.6,66.9c15.2,9.6,52.9,30.5,105.4,31,52.3.5,90.2-19.5,105.6-28.8" fill="none" stroke="#2965ae" stroke-miterlimit="10" stroke-width="10"/>
+    <path d="M59.4,263.2c15.2-9.6,52.9-30.5,105.4-31,52.3-.5,90.2,19.5,105.6,28.8" fill="none" stroke="#2965ae" stroke-miterlimit="10" stroke-width="10"/>
+    <circle cx="101.7" cy="198.6" r="16" fill="#2965ae" stroke-width="0"/>
+    <circle cx="222" cy="237.4" r="16" fill="#2965ae" stroke-width="0"/>
+    <circle cx="165.1" cy="127.3" r="16" fill="#2965ae" stroke-width="0"/>
+    <circle cx="245.6" cy="81.3" r="16" fill="#2965ae" stroke-width="0"/>
+    <circle cx="55.2" cy="165" r="16" fill="#2965ae" stroke-width="0"/>
+  </g>
+  <g id="Livello_4" data-name="Livello 4" display="none">
+    <path d="M149.1,165h.2M289.1,165c0,77.3-62.7,140-140,140S9.1,242.3,9.1,165,71.8,25,149.1,25s140,62.7,140,140ZM211.3,102.8l-101.1,23.3-23.3,101.1,101.1-23.3,23.3-101.1Z" fill="none" stroke="#2a65ae" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+  </g>
+  <g id="Livello_5" data-name="Livello 5" display="none">
+    <g id="Livello_2" data-name="Livello 2">
+      <g>
+        <circle cx="115.6" cy="123.9" r="49.7" fill="#fff" stroke="#2864ae" stroke-linecap="round" stroke-miterlimit="10" stroke-width="16"/>
+        <path d="M115.6,173.8c-52.5,0-95.2,42.6-95.2,95.2h190.3c0-52.5-42.6-95.2-95.2-95.2h0Z" fill="#fff" stroke="#2864ae" stroke-linecap="round" stroke-miterlimit="10" stroke-width="16"/>
+      </g>
+    </g>
+    <g id="Livello_2-2" data-name="Livello 2-2">
+      <g>
+        <circle cx="220.1" cy="150.7" r="49.7" fill="#fff" stroke="#2864ae" stroke-linecap="round" stroke-miterlimit="10" stroke-width="16"/>
+        <path d="M220.1,201.8c-52.5,0-95.2,43-95.2,95.9h190.3c0-53-42.6-95.9-95.2-95.9h0Z" fill="#fff" stroke="#2864ae" stroke-linecap="round" stroke-miterlimit="10" stroke-width="16"/>
+      </g>
+    </g>
+  </g>
+  <g id="Livello_6" data-name="Livello 6" display="none">
+    <path d="M307,61.4l-26.9,26.9-38.4-38.4,26.9-26.9c10.6-10.6,27.8-10.6,38.4,0s10.6,27.8,0,38.4h0ZM291.7,92.1c2.1-2.1,5.6-2.1,7.7,0s2.1,5.6,0,7.7l-99.9,99.9c-2.1,2.1-5.6,2.1-7.7,0s-2.1-5.6,0-7.7l65.3-65.3-53.8-53.8,23.1-23,53.8,53.8,11.5-11.5ZM203.3,88.3l38.4,38.4-153.7,153.7-38.4-38.4L203.3,88.3h0ZM15,315l26.9-65.3,38.4,38.4s-65.3,26.9-65.3,26.9Z" fill="#2864ae" stroke-width="0"/>
+  </g>
+  <g id="Livello_8" data-name="Livello 8" display="none">
+    <circle cx="165" cy="165" r="150" fill="#fff" stroke="#2864ae" stroke-miterlimit="10" stroke-width="16"/>
+    <g>
+      <rect x="151.4" y="226.4" width="27.3" height="27.3" fill="#2864ae" stroke-width="0"/>
+      <path d="M219.6,130.9c0,16.6-7.5,32.2-20.5,42.6-10.3,8-17.3,19.6-19.6,32.4h-27.7c2.4-21.2,13.3-40.6,30.3-53.7,11.8-9.4,13.7-26.6,4.3-38.3-1.8-2.2-3.9-4.2-6.3-5.7-8.1-5.3-18.5-6-27.3-1.9-9.4,4.5-15.3,14.2-15,24.7,0,7.5-6.1,13.6-13.6,13.6s-13.6-6.1-13.6-13.6h0c-.4-21.4,12-41,31.6-49.7,17.3-7.7,37.2-6.1,53,4.3,15.2,10.1,24.4,27.2,24.4,45.4Z" fill="#2864ae" stroke-width="0"/>
+    </g>
+  </g>
+  <g id="Livello_7" data-name="Livello 7" display="none">
+    <path d="M150.1,224.8l59.8-59.8M209.8,165l-59.8-59.8M209.8,165H30.5M53.2,239.7c24.1,36,65.2,59.8,111.8,59.8,74.3,0,134.5-60.2,134.5-134.5S239.3,30.5,165,30.5s-87.7,23.7-111.8,59.8" fill="#fff" stroke="#2864ae" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+  </g>
+  <g id="Livello_9" data-name="Livello 9">
+    <rect x="64.6" y="26.7" width="200.9" height="276.5" rx="17" ry="17" fill="#fff" stroke="#2864ae" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+    <line x1="143.3" y1="81" x2="228.7" y2="81" fill="none" stroke="#2864ae" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+    <line x1="143.3" y1="127.4" x2="228.7" y2="127.4" fill="none" stroke="#2864ae" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+    <line x1="143.3" y1="171.9" x2="228.7" y2="171.9" fill="none" stroke="#2864ae" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+    <line x1="143.3" y1="213.7" x2="228.7" y2="213.7" fill="none" stroke="#2864ae" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+    <line x1="143.3" y1="255.5" x2="228.7" y2="255.5" fill="none" stroke="#2864ae" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+    <rect x="98" y="68.5" width="24" height="24" rx="7.5" ry="7.5" fill="#2864ae" stroke-width="0"/>
+    <rect x="98" y="115.4" width="24" height="24" rx="7.5" ry="7.5" fill="#2864ae" stroke-width="0"/>
+    <rect x="98" y="159.9" width="24" height="24" rx="7.5" ry="7.5" fill="#2864ae" stroke-width="0"/>
+    <rect x="98" y="201.7" width="24" height="24" rx="7.5" ry="7.5" fill="#2864ae" stroke-width="0"/>
+    <rect x="98" y="241.1" width="24" height="24" rx="7.5" ry="7.5" fill="#2864ae" stroke-width="0"/>
+  </g>
+</svg>

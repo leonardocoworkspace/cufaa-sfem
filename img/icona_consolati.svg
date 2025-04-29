@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 428.5 303">
+  <g id="palazzi_02" data-name="palazzi 02">
+    <path d="M303.7,63.6h89.5c5.5,0,10,4.5,10,10v199h-109.5V73.6c0-5.5,4.5-10,10-10Z" fill="#fff" stroke="#06c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <path d="M29.2,61.7h89.5c5.5,0,10,4.5,10,10v199H19.2V71.7c0-5.5,4.5-10,10-10Z" fill="#fff" stroke="#06c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="5" y="254.1" width="420" height="41.8" fill="#fff" stroke-width="0"/>
+    <rect x="349" y="87.4" width="28.8" height="34.6" rx="2" ry="2" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="45.2" y="85.5" width="28.8" height="28.8" rx="2" ry="2" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <g id="palazzo">
+    <path d="M115.3,12.4h199.1c5.5,0,10,4.5,10,10v262.9H105.3V22.4c0-5.5,4.5-10,10-10Z" fill="#fff" stroke="#06c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="257.1" y="204.6" width="34.6" height="46.1" rx="2" ry="2" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <path d="M193.8,172h42.1c1.1,0,2,.9,2,2v109.5h-46.1v-109.5c0-1.1.9-2,2-2h0Z" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="136.1" y="204.6" width="34.6" height="46.1" rx="2" ry="2" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="258.1" y="140.2" width="34.6" height="46.1" rx="2" ry="2" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="137" y="140.2" width="34.6" height="46.1" rx="2" ry="2" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="258.1" y="75.9" width="34.6" height="46.1" rx="2" ry="2" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="137" y="75.9" width="34.6" height="46.1" rx="2" ry="2" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="137" y="25.9" width="155.7" height="32.7" rx="5" ry="5" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <rect x="89.5" y="267.6" width="249.8" height="28.8" fill="#06c" stroke-width="0"/>
+  </g>
+  <g id="albero">
+    <ellipse cx="60.6" cy="195.3" rx="31.7" ry="55" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <line x1="60.6" y1="171" x2="60.6" y2="295.9" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <line x1="60.6" y1="221.4" x2="82.8" y2="199.2" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <line x1="59.2" y1="210.9" x2="37" y2="188.7" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+    <line x1="58.1" y1="197.5" x2="80.3" y2="175.3" fill="none" stroke="#06c" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>

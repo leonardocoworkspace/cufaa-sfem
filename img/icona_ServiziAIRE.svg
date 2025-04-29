@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 428.5 303">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-6, .cls-4, .cls-5 {
+        stroke: #06c;
+      }
+
+      .cls-1, .cls-6, .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-width: 10px;
+      }
+
+      .cls-2, .cls-6, .cls-7, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-8, .cls-3 {
+        fill: #06c;
+      }
+
+      .cls-8, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        stroke-linejoin: round;
+        stroke-width: 16px;
+      }
+
+      .cls-9 {
+        display: none;
+      }
+    </style>
+  </defs>
+  <g id="Livello_1-2" data-name="Livello 1-2" class="cls-9">
+    <g id="palazzi_02" data-name="palazzi 02">
+      <path class="cls-1" d="M303.7,63.6h89.5c5.5,0,10,4.5,10,10v199h-109.5V73.6c0-5.5,4.5-10,10-10Z"/>
+      <path class="cls-1" d="M29.2,61.7h89.5c5.5,0,10,4.5,10,10v199H19.2V71.7c0-5.5,4.5-10,10-10Z"/>
+      <rect class="cls-7" x="5" y="254.1" width="420" height="41.8"/>
+      <rect class="cls-5" x="349" y="87.4" width="28.8" height="34.6" rx="2" ry="2"/>
+      <rect class="cls-5" x="45.2" y="85.5" width="28.8" height="28.8" rx="2" ry="2"/>
+    </g>
+    <g id="palazzo">
+      <path class="cls-4" d="M115.3,12.4h199.1c5.5,0,10,4.5,10,10v262.9H105.3V22.4c0-5.5,4.5-10,10-10Z"/>
+      <rect class="cls-5" x="257.1" y="204.6" width="34.6" height="46.1" rx="2" ry="2"/>
+      <path class="cls-5" d="M193.8,172h42.1c1.1,0,2,.9,2,2v109.5h-46.1v-109.5c0-1.1.9-2,2-2h0Z"/>
+      <rect class="cls-5" x="136.1" y="204.6" width="34.6" height="46.1" rx="2" ry="2"/>
+      <rect class="cls-5" x="258.1" y="140.2" width="34.6" height="46.1" rx="2" ry="2"/>
+      <rect class="cls-5" x="137" y="140.2" width="34.6" height="46.1" rx="2" ry="2"/>
+      <rect class="cls-5" x="258.1" y="75.9" width="34.6" height="46.1" rx="2" ry="2"/>
+      <rect class="cls-5" x="137" y="75.9" width="34.6" height="46.1" rx="2" ry="2"/>
+      <rect class="cls-5" x="137" y="25.9" width="155.7" height="32.7" rx="5" ry="5"/>
+      <rect class="cls-8" x="89.5" y="267.6" width="249.8" height="28.8"/>
+    </g>
+    <g id="albero">
+      <ellipse class="cls-5" cx="60.6" cy="195.3" rx="31.7" ry="55"/>
+      <line class="cls-5" x1="60.6" y1="171" x2="60.6" y2="295.9"/>
+      <line class="cls-5" x1="60.6" y1="221.4" x2="82.8" y2="199.2"/>
+      <line class="cls-5" x1="59.2" y1="210.9" x2="37" y2="188.7"/>
+      <line class="cls-5" x1="58.1" y1="197.5" x2="80.3" y2="175.3"/>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-2" x="83.4" y="20" width="214" height="262.9" rx="39.6" ry="39.6"/>
+    <rect class="cls-7" x="288.5" y="84.7" width="26.1" height="47.3"/>
+    <path class="cls-3" d="M252.8,201.1c2.5-1.9,4.8-4.2,9.3-8.7l56.4-56.4c1.4-1.4.7-3.7-1.1-4.3-6.7-2.3-15.3-6.6-23.4-14.7-8.1-8.1-12.4-16.8-14.7-23.4-.6-1.8-3-2.4-4.3-1.1l-56.4,56.4c-4.5,4.5-6.8,6.8-8.7,9.3-2.3,2.9-4.3,6.1-5.9,9.5-1.4,2.9-2.4,5.9-4.4,12l-2.6,7.8-4.2,12.5-3.9,11.7c-1,3-.2,6.3,2,8.5,2.2,2.2,5.5,3,8.5,2l11.7-3.9,12.5-4.2,7.8-2.6h0c6.1-2,9.1-3,12-4.4,3.4-1.6,6.5-3.6,9.5-5.9Z"/>
+    <path class="cls-8" d="M336.1,118.3c12-12,12-31.5,0-43.6-12-12-31.5-12-43.6,0l-1.8,1.8c-1.7,1.7-2.5,4.2-2.1,6.6.3,1.5.8,3.8,1.7,6.4,1.9,5.3,5.4,12.4,11.9,18.9,6.6,6.6,13.6,10.1,18.9,11.9,2.7.9,4.9,1.4,6.4,1.7,2.4.4,4.9-.4,6.6-2.1l1.8-1.8Z"/>
+    <line class="cls-6" x1="118.8" y1="102" x2="225.4" y2="101.4"/>
+    <line class="cls-6" x1="118.8" y1="132.4" x2="183.8" y2="132.4"/>
+    <line class="cls-6" x1="118.8" y1="162.7" x2="164.4" y2="162.7"/>
+  </g>
+</svg>

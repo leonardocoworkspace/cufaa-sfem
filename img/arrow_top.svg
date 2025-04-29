@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 330 330">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2864ae;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-5 {
+        stroke-width: 30px;
+      }
+
+      .cls-7, .cls-3 {
+        stroke-width: 16px;
+      }
+
+      .cls-7, .cls-3, .cls-8, .cls-5, .cls-9, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7, .cls-3, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-7, .cls-3, .cls-5, .cls-9 {
+        stroke: #2864ae;
+      }
+
+      .cls-8, .cls-6 {
+        stroke: #2965ae;
+        stroke-width: 10px;
+      }
+
+      .cls-4 {
+        stroke: #2a65ae;
+        stroke-width: 15px;
+      }
+
+      .cls-10 {
+        fill: #2965ae;
+      }
+
+      .cls-9 {
+        stroke-width: 20px;
+      }
+
+      .cls-11 {
+        display: none;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Livello_1">
+      <g id="Livello_1-2" data-name="Livello_1" class="cls-11">
+        <g>
+          <path class="cls-5" d="M289.8,282.8c-1.1,0-2.2-.4-3.1-1.1l-97.8-79.2c-2.1-1.7-2.5-4.9-.7-7,1.7-2.1,4.9-2.5,7-.7l97.8,79.2c2.1,1.7,2.5,4.9.7,7-1,1.2-2.4,1.9-3.9,1.9h0Z"/>
+          <circle class="cls-9" cx="136.1" cy="148.1" r="100.9"/>
+        </g>
+      </g>
+      <g id="Livello_3" class="cls-11">
+        <circle class="cls-8" cx="165" cy="165" r="140"/>
+        <ellipse class="cls-8" cx="165" cy="165" rx="66.2" ry="140"/>
+        <line class="cls-6" x1="23.8" y1="165" x2="306.2" y2="165"/>
+        <line class="cls-6" x1="165" y1="25" x2="165" y2="305"/>
+        <path class="cls-6" d="M59.6,66.9c15.2,9.6,52.9,30.5,105.4,31,52.3.5,90.2-19.5,105.6-28.8"/>
+        <path class="cls-6" d="M59.4,263.2c15.2-9.6,52.9-30.5,105.4-31,52.3-.5,90.2,19.5,105.6,28.8"/>
+        <circle class="cls-10" cx="101.7" cy="198.6" r="16"/>
+        <circle class="cls-10" cx="222" cy="237.4" r="16"/>
+        <circle class="cls-10" cx="165.1" cy="127.3" r="16"/>
+        <circle class="cls-10" cx="245.6" cy="81.3" r="16"/>
+        <circle class="cls-10" cx="55.2" cy="165" r="16"/>
+      </g>
+      <g id="Livello_4" class="cls-11">
+        <path class="cls-4" d="M149.1,165h.2M289.1,165c0,77.3-62.7,140-140,140S9.1,242.3,9.1,165,71.8,25,149.1,25s140,62.7,140,140ZM211.3,102.8l-101.1,23.3-23.3,101.1,101.1-23.3s23.3-101.1,23.3-101.1Z"/>
+      </g>
+      <g id="Livello_5" class="cls-11">
+        <g id="Livello_2">
+          <g>
+            <circle class="cls-3" cx="115.6" cy="123.9" r="49.7"/>
+            <path class="cls-3" d="M115.6,173.8c-52.5,0-95.2,42.6-95.2,95.2h190.3c0-52.5-42.6-95.2-95.2-95.2h0Z"/>
+          </g>
+        </g>
+        <g id="Livello_2-2">
+          <g>
+            <circle class="cls-3" cx="220.1" cy="150.7" r="49.7"/>
+            <path class="cls-3" d="M220.1,201.8c-52.5,0-95.2,43-95.2,95.9h190.3c0-53-42.6-95.9-95.2-95.9h0Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="Livello_6" class="cls-11">
+        <path class="cls-1" d="M307,61.4l-26.9,26.9-38.4-38.4,26.9-26.9c10.6-10.6,27.8-10.6,38.4,0s10.6,27.8,0,38.4h0ZM291.7,92.1c2.1-2.1,5.6-2.1,7.7,0s2.1,5.6,0,7.7l-99.9,99.9c-2.1,2.1-5.6,2.1-7.7,0s-2.1-5.6,0-7.7l65.3-65.3-53.8-53.8,23.1-23,53.8,53.8,11.5-11.5h0ZM203.3,88.3l38.4,38.4-153.7,153.7-38.4-38.4L203.3,88.3h0ZM15,315l26.9-65.3,38.4,38.4-65.3,26.9Z"/>
+      </g>
+      <g id="Livello_8" class="cls-11">
+        <circle class="cls-7" cx="165" cy="165" r="150"/>
+        <g>
+          <rect class="cls-1" x="151.4" y="226.4" width="27.3" height="27.3"/>
+          <path class="cls-1" d="M219.6,130.9c0,16.6-7.5,32.2-20.5,42.6-10.3,8-17.3,19.6-19.6,32.4h-27.7c2.4-21.2,13.3-40.6,30.3-53.7,11.8-9.4,13.7-26.6,4.3-38.3-1.8-2.2-3.9-4.2-6.3-5.7-8.1-5.3-18.5-6-27.3-1.9-9.4,4.5-15.3,14.2-15,24.7,0,7.5-6.1,13.6-13.6,13.6s-13.6-6.1-13.6-13.6h0c-.4-21.4,12-41,31.6-49.7,17.3-7.7,37.2-6.1,53,4.3,15.2,10.1,24.4,27.2,24.4,45.4h0Z"/>
+        </g>
+      </g>
+      <g id="Livello_7">
+        <line class="cls-2" x1="224.8" y1="135.1" x2="165" y2="75.3"/>
+        <line class="cls-2" x1="165" y1="75.4" x2="105.2" y2="135.2"/>
+        <line class="cls-2" x1="165" y1="75.4" x2="165" y2="254.7"/>
+      </g>
+    </g>
+  </g>
+</svg>
